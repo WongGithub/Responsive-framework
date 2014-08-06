@@ -5,6 +5,8 @@ Dev:Mr.wong
 
 因工作需要，参考了boostrap框架之后，搭建的轻量级响应式框架。
 
+演示地址:http://wonggithub.github.io/rsp/
+
 说明：
    响应式框架栅格为12格，所有布局都以12格为基本单位，间隔20px;
 
